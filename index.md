@@ -4,3 +4,4 @@ Baloo ist ein Bär, der mit Ruhe und Gemüdlichkeit durch die Welt geht. Er lieb
 * Groß
 * Stark
 * Sympathisch
+> Probiers mal mit Ruhe und Gemüdlichkeit
